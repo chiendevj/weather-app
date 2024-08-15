@@ -1,10 +1,10 @@
 import React from 'react'
 import { Text, View } from 'react-native';
-
+import styles from '../styles/global'
 const OverviewScreen = () => {
 
 return (
-  <View style={{ flex: 1}}>
+  <View style={styles.textContainer}>
     <Text>Overview Screen</Text>
   </View>
 );
