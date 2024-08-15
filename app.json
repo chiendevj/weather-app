@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "weather-app",
+    "name": "Weather",
     "slug": "weather-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icons/wind.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
